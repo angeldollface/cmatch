@@ -66,5 +66,5 @@ $ npm run build
 
 ## NOTE :scroll:
 
-- *CMatch :ribbon: :scroll: :lock:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
+- *CMatch :art: :artist:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
 - Licensed under the MIT license.
