@@ -10,7 +10,7 @@ As an artist, I often find myself wondering about good color schemes. To address
 
 ## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
-To view a live deployed version of this project, click here: [VIEW](https://angeldollface.art/cmatch)
+To view a live deployed version of this project, click here: [VIEW](https://angeldollface.boo/cmatch)
 
 ## SET IT UP :inbox_tray:
 
